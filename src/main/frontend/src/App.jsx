@@ -18,6 +18,7 @@ function App() {
         <div>
           <h1>Get started</h1>
           <h1>This is to test that maven build is working fine</h1>
+          <h1>This is to test VS code is working fine</h1>
           <p>
             Edit <code>src/App.jsx</code> and save to test <code>HMR</code>
           </p>
